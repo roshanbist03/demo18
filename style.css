@@ -1,7 +1,17 @@
 body {
 	min-width: 320px;
+	padding: 15px;
 }
 
-h#header {
+#header {
 	background: #000;
+	color: #fff;
+	font-size: 30px;
+	line-height: 30px;
+	padding: 15px;
+}
+
+main {
+	font-size: 18px;
+	line-height: 20px;
 }
